@@ -1,4 +1,4 @@
 # My-Timer
-Create your own timer from scratch (Java GUI)
+"My-timer" instead of "import java.util.Timer;" ;)
 
 ![alt text](https://imgur.com/MXrhRnY.gif)
